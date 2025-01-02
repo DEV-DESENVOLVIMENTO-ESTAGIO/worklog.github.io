@@ -6,7 +6,7 @@ title = 'Worklog'
 
 | Time       | Mo     | Di     | Mi     | Do     | Fr     | Sa     | So     |
 |------------|--------|--------|--------|--------|--------|--------|--------|
-| 6.1-0.12.01 |Translating the page to English and German, trying to implement in Gtranslate        | Installing Polylang and creating translated pages for home       |        |        |        |        |        |
+| 6.1-0.12.01 |Translating the page to English and German, trying to implement in Gtranslate        | Installing Polylang and creating translated pages for home       | Holiday       | creating logging site (learning hugo again) /Waiting for tasks      |        |        |        |
 | 9.03 30.12-0.5.01 |        |        |        |        |        |        |        |
 | 13.03-0.12.01  |        |        |        |        |        |        |        |
 | 16.03 30.12-0.5.01 |        |        |        |        |        |        |        |
