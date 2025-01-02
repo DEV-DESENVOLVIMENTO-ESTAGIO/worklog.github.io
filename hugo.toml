@@ -2,3 +2,4 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Worklog'
 theme = "paper"
+customCSS = ["custom.css"]

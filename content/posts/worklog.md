@@ -1,6 +1,6 @@
 +++
 date = '2025-01-02T19:28:47-03:00'
-draft = true
+draft = false
 title = 'Worklog'
 +++
 
